@@ -1,3 +1,8 @@
+contoh particeljs sea-anemone
+referensi
+https://www.npmjs.com/package/particles-bg
+
+<img width="956" alt="Screenshot 2022-01-11 103522" src="https://user-images.githubusercontent.com/49564359/148877103-68fd30bf-3ee5-4054-b2c0-27518149e7c2.png">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
